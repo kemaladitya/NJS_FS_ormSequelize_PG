@@ -1,0 +1,33 @@
+{
+<<<<<<< HEAD
+  "name": "coba3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+=======
+  "name": "manytomany",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+>>>>>>> 3b00facc04204b60aa8a5ff7f634d2483df1876f
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+<<<<<<< HEAD
+    "sequelize": "^4.34.0"
+=======
+    "sequelize": "^4.33.4"
+>>>>>>> 3b00facc04204b60aa8a5ff7f634d2483df1876f
+  }
+}
